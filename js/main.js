@@ -58,7 +58,7 @@ jQuery(document).ready(function($){
 
 /*automatic text*/
 var typed = new Typed('.element', {
- strings: ["Im a Web developer", "who is fluent in the following languages.....", "HTML", "CSS", "and now im mastering javascript and its librabries","okay now lemme keep on saying the same stuff over and over again..lol  Explore"],
+ strings: ["Im a Web developer", "who is fluent in the following languages.....", "HTML", "CSS", "and now im mastering javascript and its libraries","okay now lemme keep on saying the same stuff over and over again..lol  Explore"],
  typeSpeed: 60,
  backSpeed: 30,
  backDelay: 2000,
